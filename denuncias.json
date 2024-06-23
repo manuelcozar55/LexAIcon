@@ -1,0 +1,64 @@
+{
+    "questions_and_answers": [
+        {
+            "question": "¿Qué es una denuncia?",
+            "answer": "Es la declaración, verbal o por escrito, por la que se comunica a la autoridad cualquier hecho del que se tenga conocimiento y que pueda ser constitutivo de una infracción penal, aunque no lo haya presenciado directamente o no le haya ocasionado perjuicio."
+        },
+        {
+            "question": "¿Quién puede formular una denuncia?",
+            "answer": "Toda persona que presencie la comisión de un delito público o que tenga conocimiento de él por otra forma está obligada a ponerlo en conocimiento de la autoridad. Están especialmente obligados los empleados o funcionarios públicos y aquellos que conozcan el delito por razón de su cargo, profesión u oficio."
+        },
+        {
+            "question": "¿Quiénes no están obligados a denunciar?",
+            "answer": "No están obligados a denunciar los menores de 16 años, las personas que carezcan de uso de razón, los padres o ascendientes, cónyuge, hermanos y los hijos o descendientes del autor de los hechos, los abogados y procuradores respecto de las instrucciones de sus clientes, y los eclesiásticos o ministros respecto de las noticias reveladas en el ejercicio de su ministerio."
+        },
+        {
+            "question": "¿Qué responsabilidad tiene el autor de una denuncia?",
+            "answer": "La formulación de una denuncia no supone para su autor responsabilidad ni obligación especial alguna, ya que no debe probar los hechos denunciados ni intervenir en el proceso judicial. Sin embargo, la denuncia falsa es un delito contra la Administración de Justicia, castigado penalmente."
+        },
+        {
+            "question": "¿Cómo se presenta una denuncia?",
+            "answer": "Se puede presentar por escrito o verbalmente ante las autoridades policiales (Comisaría de Policía, cuartel de la Guardia Civil), ante el Fiscal o ante el Juzgado de Instrucción o Juzgado de Paz de su domicilio."
+        },
+        {
+            "question": "¿Qué requisitos debe cumplir una denuncia?",
+            "answer": "Debe identificar al denunciante mediante la mención de sus datos personales o exhibición de un documento de identidad, exponer los hechos que se estimen delictivos y cuantos datos se disponga sobre el hecho y sus intervinientes, y firmar la denuncia. Puede aportar documentos, objetos, partes médicos, relaciones de testigos u otras pruebas."
+        },
+        {
+            "question": "¿Cuál es el plazo para interponer una denuncia por infracciones leves?",
+            "answer": "El plazo para interponer la denuncia por infracciones leves es de un año."
+        },
+        {
+            "question": "¿Qué pasos sigue una denuncia presentada ante la autoridad policial?",
+            "answer": "Las denuncias presentadas ante la Policía normalmente darán lugar a una investigación previa. Si se trata de un delito público, lo comunicarán a la autoridad judicial o al Fiscal. Si no hay autor conocido del delito, la Policía conservará el atestado a disposición del Ministerio Fiscal y la autoridad judicial."
+        },
+        {
+            "question": "¿Qué pasos sigue una denuncia presentada ante el Ministerio Fiscal?",
+            "answer": "El Ministerio Fiscal puede efectuar comprobaciones por sí mismo o encomendar a las fuerzas policiales la práctica de una investigación inicial. Si hay indicios de una infracción penal, remitirá la documentación al Juzgado competente."
+        },
+        {
+            "question": "¿Qué pasos sigue una denuncia presentada ante el Juzgado de Instrucción?",
+            "answer": "El Juez examina el contenido de la denuncia y decide las actuaciones a llevar a cabo, pudiendo acordar el archivo, el sobreseimiento provisional, trasladar el expediente a otro juzgado competente o seguir un procedimiento penal."
+        },
+        {
+            "question": "¿Qué derechos tienen las víctimas u ofendidos por el delito denunciado?",
+            "answer": "Tienen derecho a mostrarse parte en el proceso, obtener la restitución de la cosa objeto del delito, lograr la reparación de los daños sufridos, recibir información sobre el curso de las investigaciones, la fecha y lugar del juicio, y la resolución final del proceso."
+        },
+        {
+            "question": "¿Cuáles son las ventajas de presentar una denuncia?",
+            "answer": "Presentar una denuncia permite iniciar una investigación oficial sobre un posible delito, lo cual puede llevar a la identificación y sanción de los responsables, y ofrece a las víctimas la oportunidad de obtener justicia y reparación por los daños sufridos."
+        },
+        {
+            "question": "¿Qué obligaciones tiene el denunciante después de presentar una denuncia?",
+            "answer": "El denunciante no tiene obligaciones especiales ni responsabilidad por la denuncia presentada, ya que no debe probar los hechos denunciados ni intervenir en el proceso judicial. Sin embargo, debe asegurarse de que la denuncia sea veraz, ya que una denuncia falsa es un delito."
+        },
+        {
+            "question": "¿Qué información adicional debe conocer el denunciante?",
+            "answer": "El denunciante debe conocer que tiene derecho a solicitar un resguardo justificativo de haber formalizado la denuncia y que puede aportar documentos, objetos, partes médicos, relaciones de testigos u otras pruebas que tenga en su poder para apoyar la denuncia."
+        },
+        {
+            "question": "¿Qué debe hacer un denunciante si no se identifica al autor del delito?",
+            "answer": "Si no se identifica al autor del delito en un plazo de 72 horas, la Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la autoridad judicial. El denunciante tiene el derecho de reiterar la denuncia ante la fiscalía o el Juzgado de Instrucción."
+        }
+    ]
+}
